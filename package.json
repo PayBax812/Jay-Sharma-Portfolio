@@ -1,9 +1,0 @@
-{
-  "name": "jay-sharma-portfolio",
-  "version": "2.0.4",
-  "description": "Jay Sharma — Full Stack Developer & AI Automation Engineer Portfolio",
-  "scripts": {
-    "dev": "npx -y serve .",
-    "build": "echo 'Static site — no build step needed'"
-  }
-}
